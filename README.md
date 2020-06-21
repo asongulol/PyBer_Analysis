@@ -9,4 +9,4 @@ The analysis has three main objectives:
 
 Data from two related datasets (driver data and city data) were combined to come up with the main metrics that were being investigated. 
 
-![alt text] analysis/Summary Data for PyBer Analysis.PNG
+![alt text] https://raw.githubusercontent.com/asongulol/PyBer_Analysis/master/analysis/Summary%20Data%20for%20PyBer%20Analysis.PNG
