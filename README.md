@@ -11,13 +11,16 @@ The analysis has three main objectives:
 
 There were relatively few difficulties but attention to detail in coding is essential to avoid simple mistakes that could lead to delay in the analysis. Also, the instructions in the challenge can sometimes be misleading adding to delays and difficulties.
 
-## Recommendations
+## Results of Analysis 
 Data from two related datasets (driver data and city data) were combined to come up with the main metrics that were being investigated. The summary table can be seen below:
 
 ![alt text](https://raw.githubusercontent.com/asongulol/PyBer_Analysis/master/analysis/Summary%20Data%20for%20PyBer%20Analysis.PNG)
 
-Although growth in the different segments can only benefit PyBer as an organization. Based on the summary table, recruiting more drivers in the Suburban areas specially close to highly populated cities seem to present the most opportunity. Although, they represnt only 16% of the total drivers in the current dataset, they represent 30% of the total fares. Also based on the table below fares appear to spike around March for Urban Drivers and Suburban drivers and in April for Rural drivers.
 
 ![alt text](https://raw.githubusercontent.com/asongulol/PyBer_Analysis/master/analysis/Fig7.png)
 
-Further analysis may include percentage distributions of each of the metrics based on the City Type can also further give information that might be useful for PyBer.
+## Recommendations
+
+Although growth in the different segments can only benefit PyBer as an organization. Based on the summary table, recruiting more drivers in the Suburban areas specially close to highly populated cities seem to present the most opportunity. Although, they represnt only 16% of the total drivers in the current dataset, they represent 30% of the total fares. Also based on the table below fares appear to spike around March for Urban Drivers and Suburban drivers and in April for Rural drivers.
+
+Further analysis may include percentage distributions of each of the metrics based on the City Type can also further give information that might be useful for PyBer. Also, complete yearly data for at least 2 years will be helpful in establishing trends that could provide justification for incentives and other programs to increase the number of drivers and boost the number of fares. 
