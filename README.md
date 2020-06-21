@@ -7,8 +7,11 @@ The analysis has three main objectives:
 - provide a line chart using the 586 style to show the sums of fares per week for the first four (4) months of 2019, and,
 - draw reasonable conclusions from the analysis that could help effectively direct resources and support where it needed.
 
+## Challenges
+
 There were relatively few difficulties but attention to detail in coding is essential to avoid simple mistakes that could lead to delay in the analysis. Also, the instructions in the challenge can sometimes be misleading adding to delays and difficulties.
 
+## Recommendations
 Data from two related datasets (driver data and city data) were combined to come up with the main metrics that were being investigated. The summary table can be seen below:
 
 ![alt text](https://raw.githubusercontent.com/asongulol/PyBer_Analysis/master/analysis/Summary%20Data%20for%20PyBer%20Analysis.PNG)
